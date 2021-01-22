@@ -1,0 +1,133 @@
+body{
+    background-color: #f3f3f3 ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkcyan;
+}
+
+h1 {
+    font-style: bold;
+    color: rgb(231, 66, 66);
+}
+
+.tim {
+    border-radius: 50%;
+    border-color: darkcyan;
+    border-width: 10px;
+    max-height: 100px;
+    max-width: 100px;
+    align-content: center;
+}
+
+.box1 {
+    margin: auto;
+    width: 50%;
+    border: 2px solid grey;
+    background-color: whitesmoke;   
+    text-align: center;
+    font-style: normal;
+    color: darkcyan;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.button {
+    background-origin: padding-box;
+    background-color: rgb(231, 66, 66);
+    color: whitesmoke;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.box2 {
+    margin: auto;
+    width: 50%;
+    border: 2px solid grey;
+    background-color: whitesmoke;   
+    text-align: center;
+    font-style: normal;
+    color: darkcyan;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.facebook{
+    max-height: 80px;
+    max-width: 100px;
+    width: 80px;
+    height: 100px;
+    background-size: cover;
+}
+.facebook_link {
+    text-decoration: none;
+    color: darkcyan;
+}
+
+.linkedin {
+    max-height: 80px;
+    max-width: 100px;
+    width: 80px;
+    height: 100px;
+}
+.linkedin_link {
+text-decoration: none;
+color: darkcyan;
+}
+
+.twitter{
+    max-height: 80px;
+    max-width: 100px;
+    width: 80px;
+    height: 100px;
+}
+
+.twitter_link {
+    text-decoration: none;
+    color: darkcyan;
+}
+
+.box3 {
+    margin: auto;
+    width: 50%;
+    border: 2px solid grey;
+    background-color: whitesmoke;   
+    text-align: center;
+    font-style: normal;
+    color: darkcyan;
+    text-decoration: none;
+
+
+}
+
+.space{
+    max-height: 550px;
+    max-width: 300px;
+    width: 150px;
+    height: 250px;
+    float:left;
+    margin-left: 30px;
+
+}
+
+.vacances {
+    max-height: 250px;
+    max-width: 150px;
+    width: 150px;
+    height: 250px;
+    float:left;
+    margin-left: 30px;
+
+}
+
+.alien {
+    max-height: 250px;
+    max-width: 150px;
+    width: 150px;
+    height: 250px;
+    float:left;
+    margin-left: 30px;
+}
